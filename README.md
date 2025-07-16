@@ -1,6 +1,6 @@
 # LinkedIn CSV Profile Filter Dashboard 🚀
 
-# This is a lightweight, intuitive web application designed to help you efficiently manage and filter your LinkedIn connections. Built with **FastAPI** for the backend and **TailwindCSS** for a sleek, responsive user interface, this tool allows you to upload your exported LinkedIn connections CSV and quickly search and filter profiles based on various criteria.
+### This is a lightweight, intuitive web application designed to help you efficiently manage and filter your LinkedIn connections. Built with **FastAPI** for the backend and **TailwindCSS** for a sleek, responsive user interface, this tool allows you to upload your exported LinkedIn connections CSV and quickly search and filter profiles based on various criteria.
 
 ## Features
 
